@@ -91,4 +91,40 @@ let words = [
         word: "library",
         hint: "Place containing collection of books"
     },
+    {
+        word: "chocolate",
+        hint: "A food made from ground roasted cocoa beans."
+    },
+    {
+        word:"knowledge",
+        hint:"The fact of knowing about something"
+    },
+    {
+        word:"abandon",
+        hint:"To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions."
+    },
+        {
+        word:"achievement",
+        hint:"The act of achieving or performing"
+    },
+    {
+        word:"boundary",
+        hint:"The dividing line or location between two areas."
+    },
+        {
+        word:"ceremony",
+        hint:"An official gathering to celebrate, commemorate, or otherwise mark some event."
+    },
+                {
+        word:"economist",
+        hint:"One concerned with political economy."
+    },
+        {
+        word:"government",
+        hint:"The state and its administration viewed as the ruling political power."
+    },
+    {
+        word:"headquarters",
+        hint:"The center of an organization's operations or administration."
+    },
 ]
